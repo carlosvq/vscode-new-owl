@@ -1,6 +1,6 @@
 # New Owl
 
-![New Owl](https://rawcdn.githack.com/carlosvq/vscode-new-ocean/7c8d32f92fcff1794b1066044b4ec1bc247c8068/preview.png)
+![New Owl](https://rawcdn.githack.com/carlosvq/vscode-new-owl/02885278483949e67b2598a08a7b831384d9c25a/preview.png)
 
 **New Owl** is a color scheme designed to emulate the appearance of the [Night owl theme](https://github.com/voronianski/oceanic-next-color-scheme). But, with a new look and new syntax colors.
 
