@@ -1,0 +1,36 @@
+{
+  "name": "vscode-new-owl",
+  "displayName": "New Owl",
+  "description": "New Owl theme, inspired in night owl colors",
+  "version": "2.0.0",
+  "publisher": "carlosvq",
+  "repository": {
+    "url": "https://github.com/carlosvq/vscode-new-owl"
+  },
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "new",
+    "text",
+    "owl",
+    "dark"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1b2b34",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "New Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new-owl.json"
+      }
+    ]
+  }
+}
